@@ -1,0 +1,17 @@
+li {
+  list-style-type: none;
+  padding-bottom: 50px;
+  font-size: 3em;
+}
+
+.linkOne:hover {
+  color:orange;
+}
+
+.linkTwo:hover {
+  background-color: yellow;
+}
+
+.linkThree:hover {
+  padding: 0 5px;
+}
